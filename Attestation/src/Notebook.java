@@ -15,7 +15,6 @@ class Notebook {
         this.cpuFrequency = cpuFrequency;
         this.price = price;
     }
-
     public String getModel() { return model; }
     public String getProcessorModel() { return processorModel; }
     public int getRam() { return ram; }

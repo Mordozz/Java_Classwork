@@ -12,7 +12,6 @@ public class Main {
         System.out.println("1 - ОЗУ");
         System.out.println("2 - Объем ЖД");
         System.out.println("3 - Частота процессора");
-
         int choice = scanner.nextInt();
         System.out.println("Введите минимальное значение для указанного критерия:");
         int minValue = scanner.nextInt();
